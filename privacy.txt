@@ -1,0 +1,63 @@
+Privacy Policy
+2048 Redux - Aurum Edition
+Last updated: October 8, 2026
+
+About this policy
+This Privacy Policy describes how 2048 Redux - Aurum Edition (Android package com.aurum.edition2048) handles information. It applies to the Android game distributed through Google Play. The publisher is the developer identified on the game's Google Play store listing. You can contact the publisher through the support email shown under App support on that listing.
+
+Game progress and local profile
+The game saves your current boards, scores, achievements, missions, daily challenges, unlocked themes, virtual currency, inventory, settings, and session history in local app storage on your device. If you set a nickname or choose a profile image, that information is also stored locally. The app does not upload your selected profile image to a publisher server.
+
+The current release does not provide a publisher-operated player account, cloud-save service, or remote gameplay analytics service. Statistics and gameplay insights displayed in the game are calculated from device-local records. Core gameplay can be used offline; ads, purchases, restoration, and Google Play Games features may require a connection.
+
+Advertising and privacy choices
+The game uses Google AdMob. Its advertising SDK can process network information such as your IP address and an approximate location inferred from it; advertising and other device or account identifiers; ad views, taps, and other interaction events; and technical performance or diagnostic information. Google uses this information for advertising, measurement, analytics, and fraud prevention. Google and advertising partners involved in serving an ad may receive relevant advertising information.
+
+The app checks advertising consent status using Google's User Messaging Platform before initializing its ad service. Where Google provides a required consent form, you can make choices there. Settings shows Privacy Choices when Google reports that this option is required. You can also manage your advertising identifier in Android settings. Privacy choices may change personalization without eliminating all ad-related processing.
+
+Rewarded ads start only when you choose an offer. Quiet Bell and an active Foundry Pass suppress passive ads; voluntary rewarded offers remain available.
+
+Purchases and subscriptions
+Google Play processes checkout and payment details. The app receives product identifiers, purchase or transaction identifiers, purchase status, dates, and entitlement or subscription information to deliver items, prevent repeated delivery, acknowledge purchases, and restore eligible access. The app stores delivery records and entitlement information locally. It does not receive your full payment-card or bank-account details.
+
+Restoration and subscription management use your Google Play account. Clearing local data does not cancel a subscription or erase Google's purchase records. Manage or cancel subscriptions through Google Play. Consumed coin packs and device-local balances may not be recoverable after local data is deleted.
+
+Optional Google Play Games features
+When you choose to open a leaderboard, the app may ask you to sign in through Google Play Games. It can receive your player identifier and display name and submit scores and achievement events to Google for game-service features. Leaderboard entries may be visible to other players according to Google's service settings. Offline play does not require this sign-in. The app does not receive your Google account password.
+
+Sharing and support
+If you choose a sharing feature, the game sends the selected score, message, or statistics card to the destination you select through your device. The destination's own privacy practices apply.
+
+If you contact the publisher, the contact information, message, and any attachments you voluntarily provide can be used to respond and resolve your request. Avoid including payment-card details, account passwords, or unrelated sensitive information in support messages.
+
+How information is used and disclosed
+Device-local information enables saved progress, preferences, rewards, and purchase delivery. Google services process information needed for ads, purchases, sign-in, scores, achievements, and service security. The publisher does not operate a player-profile database for sale in this release. Advertising-related disclosures are described above; offline gameplay is not a claim that the entire app collects no data.
+
+Support information may be disclosed where necessary to respond to your request, comply with a legal obligation, or protect against fraud or security abuse.
+
+Retention and deletion
+Local information remains on your device until it is changed, removed, reset, or deleted by the operating system. To remove all device-local app data, use Android Settings, open this app's storage controls, and choose Clear storage or Clear data. Menu names vary by device. In-game statistics resets affect the records described by their confirmation screens and do not erase all app data.
+
+Deleting local data can permanently remove progress, profile images, inventory, settings, and delivered consumable balances. It does not delete Google Play Games records, purchase history, provider-held advertising information, or subscriptions. Use your Google account and Google Play Games controls for information held by Google.
+
+Support messages are retained for as long as necessary to handle the request and meet applicable legal or security obligations. Google and other service providers retain their information under their own policies. Contact the publisher for a request concerning information you supplied directly to the publisher.
+
+Security and international processing
+Android app storage controls restrict ordinary access by other apps. Local saves are not guaranteed to be encrypted by the game or recoverable after device loss or data deletion. Google states that information collected by its Mobile Ads SDK is encrypted in transit with TLS. No storage or transmission system is completely secure.
+
+Service providers may process information in countries outside your country of residence, according to their policies. A publicly hosted copy of this policy may also generate ordinary hosting-provider connection logs when you visit it.
+
+Children and privacy rights
+The app does not require players to supply a real name, birth date, email address, or contact list to play. Parents or guardians who believe a child has supplied personal information directly to the publisher can contact the publisher using the store listing's support contact.
+
+Depending on your location and the information involved, you may have rights to access, correct, delete, restrict, or object to processing, or withdraw consent. Device-local data can be removed using the controls above. For information held by Google, use Google's privacy and account controls. For information supplied to the publisher, contact the publisher.
+
+Updates and contact
+We may revise this policy when the game's features or information practices change. The updated date will appear on this page. For privacy questions or requests, open the Google Play listing for 2048 Redux - Aurum Edition, expand App support, and use its listed support email.
+
+Service-provider policies and contact
+Google Privacy Policy: https://policies.google.com/privacy
+Google advertising policies and controls: https://policies.google.com/technologies/ads
+Google account privacy controls: https://myaccount.google.com/data-and-privacy
+GitHub privacy statement for this hosted policy: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+App support on Google Play: https://play.google.com/store/apps/details?id=com.aurum.edition2048
